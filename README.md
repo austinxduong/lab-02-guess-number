@@ -7,3 +7,18 @@
 5) Is there some state we need to initialize?
 6) Find all the 'events' (user clicks, form submit, etc) in your app. Ask one by one, "What happens when" for each of these events.
 7) Think about how to validate each of your steps
+
+Title
+    -<h2> elemements
+
+Create Instructions
+ - number using <ul> elements
+
+Add button to submit guess
+    - add id to button
+
+must show "how many attempts" left
+must show if too high or low
+must show "win or loose"
+
+
